@@ -12,7 +12,7 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   max-width: 65rem;
-  margin: 8rem 12rem;
+  margin: 10rem 16rem;
   color: #fff;
 }
 
